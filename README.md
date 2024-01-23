@@ -1,4 +1,4 @@
-gra 2d typu countra 
+gra 2d typu spaceinvaders 
 będzie realizować następujące założenia 
 1. Własne widgety
 
