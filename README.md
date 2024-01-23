@@ -1,4 +1,4 @@
-gra 2d typu spaceinvaders 
+gra 2d typu space invaders 
 będzie realizować następujące założenia 
 1. Własne widgety
 
