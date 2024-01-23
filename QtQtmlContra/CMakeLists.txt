@@ -16,6 +16,10 @@ qt_add_qml_module(appQtQtmlContra
     URI QtQtmlContra
     VERSION 1.0
     QML_FILES Main.qml
+    SOURCES backend.h backend.cpp
+    QML_FILES GameOverPopup.qml
+    QML_FILES GameLauncherPopup.qml
+    QML_FILES GameElement.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
